@@ -119,7 +119,7 @@ I built a comprehensive training dataset by combining multiple high-quality sour
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 ### Prerequisites
 
