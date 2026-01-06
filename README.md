@@ -197,8 +197,8 @@ This will:
 
 ```python
 # In a Colab notebook
-!git clone https://github.com/yourusername/neural-translation-en-nl.git
-%cd neural-translation-en-nl
+!git clone https://github.com/Error404m/Domain-Specific-Fine-Tuning.git
+%cd Domain-Specific-Fine-Tuning
 !python mrityunjaya's_assignment.py
 ```
 
