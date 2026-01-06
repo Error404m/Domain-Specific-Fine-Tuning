@@ -227,7 +227,7 @@ software_test = load_custom_dataset()
 ## Results
 
 ### Performance Comparison
-![Results Visualization](https://raw.githubusercontent.com/Error404m/Domain-Specific-Fine-Tuning/comprehensive_results.png)
+![Results Visualization](https://raw.githubusercontent.com/Error404m/Domain-Specific-Fine-Tuning/comprehensive_results-2.png)
 
 | Model | Dataset | BLEU ↑ | chrF ↑ | TER ↓ |
 |-------|---------|--------|--------|-------|
